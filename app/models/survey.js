@@ -11,6 +11,10 @@ const surveySchema = new mongoose.Schema({
     type: String,
     required: true
   },
+  response_type: {
+    type: String,
+    required: true
+  },
   _owner: {
     type: mongoose.Schema.Types.ObjectId,
     ref: 'User',
