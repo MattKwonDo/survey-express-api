@@ -12,10 +12,13 @@ a survey can be viewed by the survey owner.
 
 ## Links
 
--   survey-express-api (githup): https://github.com/push-it-real-good/survey-express-api
--   survey-express-api (heroku): https://floating-savannah-15725.herokuapp.com/
--   survey-client (github): https://github.com/push-it-real-good/survey-client
--   survey-client app: https://push-it-real-good.github.io/survey-client/
+#### Front-End
+Front-End Deployed: https://kqngo.github.io/survey-client/
+Front-End Repo: https://github.com/kqngo/survey-client
+
+#### Back-End
+Back-end Deployed: https://survey-team-project.herokuapp.com/
+Back-End Repo: https://github.com/kqngo/survey-express-api
 
 ## API
 
